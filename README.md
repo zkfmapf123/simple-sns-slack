@@ -1,5 +1,7 @@
 # Simple SNS use Slack
 
+- Notification use AWS SNS send to Slack(webhoooks)
+
 ## Desc
 
 - SNS
