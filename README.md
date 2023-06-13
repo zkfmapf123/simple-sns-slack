@@ -7,6 +7,9 @@
 
 ## UseCase
 
+- [ ] Cloud Watch + Slack
+- <a href="https://jforj.tistory.com/293">SNS Notification</a>
+
 - [ ] Case Practice) Labmda + CloudWatch + SNS + Slack
 
 ![lambda](./pubilc/lambda.png)
