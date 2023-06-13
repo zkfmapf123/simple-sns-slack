@@ -8,6 +8,8 @@ import (
 )
 
 func HandleRequest(ctx context.Context, body any) (string, error) {
+	fmt.Print("ctx : ", ctx)
+	fmt.Println("body : ", body)
 	return fmt.Sprintf("Hello %s!", body), nil
 }
 
