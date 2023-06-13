@@ -1,0 +1,7 @@
+{
+  "vpc_id": "vpc-07b29bf03817840e5",
+  "public_subnets": ["subnet-0edb99b2ea0f7452e", "subnet-0fb477708d9b32775"],
+  "lambda": {
+    "arn": "arn:aws:lambda:ap-northeast-2:182024812696:function:sns_example"
+  }
+}

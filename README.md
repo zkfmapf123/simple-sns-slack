@@ -5,7 +5,14 @@
 - SNS
 - Slack
 
+## Result
+
+![result](./pubilc/result.png)
+
 ## UseCase
+
+- [ ] Cloud Watch + Slack
+- <a href="https://jforj.tistory.com/293">SNS Notification</a>
 
 - [ ] Case Practice) Labmda + CloudWatch + SNS + Slack
 
